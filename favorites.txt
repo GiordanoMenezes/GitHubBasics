@@ -8,3 +8,5 @@ Icasa
 Guarani
 Treze
 Campinense
+Ceara
+Fortaleza
