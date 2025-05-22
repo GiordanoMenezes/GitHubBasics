@@ -8,5 +8,7 @@ Icasa
 Guarani
 Treze
 Campinense
-Ceara
+ABC
+America/RN
 Fortaleza
+Ceara
