@@ -12,3 +12,5 @@ ABC
 America/RN
 Fortaleza
 Ceara
+Sport
+Nautico
